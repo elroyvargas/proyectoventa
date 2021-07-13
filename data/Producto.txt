@@ -1,3 +1,4 @@
-P1	Manzana verde	C1	Kilos	4.0	0.004	20.0
-P2	Naranja	C1	Kilos	3.5	0.002	30.0
-P3	Gaseosa InkaKola	C3	Unidad	6.0	0.003	24.0
+P1	parada 111	C2	unidades	50.0	1.0	20.0
+P2	pioner  	C2	unidades	70.0	1.0	20.0
+P3	guantes de seda  	C1	unidades	20.0	1.0	20.0
+P4	chompa de lana	C1	und	40.0	2.0	50.0
